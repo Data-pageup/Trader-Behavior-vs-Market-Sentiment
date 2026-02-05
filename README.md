@@ -3,19 +3,7 @@
 **By** Amirtha Ganesh R 
 **Date:** December 2024
 
-## 📂 Project Structure
-```
-ds_<Amirtha Ganesh R>/
-├── notebook_1.ipynb          # Main analysis (Google Colab)
-├── csv_files/                # Processed datasets
-│   ├── clean_trader_sentiment_data.csv
-│   └── sentiment_summary.csv
-├── outputs/                  # Visualizations
-│   ├── sentiment_analysis_summary.png
-│   └── pnl_distribution_by_sentiment.png
-├── ds_report.pdf             # Final insights report
-└── README.md                 # This file
-```
+ 
 
 ## 🔗 Google Colab Notebook
 
@@ -59,5 +47,4 @@ The `ds_report.pdf` contains:
 
 ---
 
-**Submission Date:** 14-12-2025
-**Contact:** amirthaganeshramesh@gmail.com / +91 6374707500
+ **Contact:** amirthaganeshramesh@gmail.com / +91 6374707500
