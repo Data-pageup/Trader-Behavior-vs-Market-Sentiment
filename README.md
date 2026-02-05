@@ -1,6 +1,6 @@
-# Data Science Assignment - Trader Behavior vs Market Sentiment
+#   Trader Behavior vs Market Sentiment
 
-**Candidate:** Amirtha Ganesh R 
+**By** Amirtha Ganesh R 
 **Date:** December 2024
 
 ## 📂 Project Structure
