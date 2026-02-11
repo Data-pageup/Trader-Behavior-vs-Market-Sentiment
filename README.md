@@ -1,7 +1,7 @@
 #   Trader Behavior vs Market Sentiment
 
 **By** Amirtha Ganesh R 
-**Date:** December 2024
+**Date:** December 2025
 
  
 
